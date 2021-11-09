@@ -12,10 +12,6 @@ TensorFlow implementation of Generative Adversarial Network (GAN) applied on [MN
 4. [GAN with 2D CNN and Spectral Normalization](#gan-with-2d-cnn-and-spectral-normalization)
 
 ### GAN with Linear Layers
-* Architecture
-
-![Architecture](Architecture/a1.png)
-
 * Resuts 
 <table align='center'>
 <tr align='center'>
@@ -29,10 +25,6 @@ TensorFlow implementation of Generative Adversarial Network (GAN) applied on [MN
 </table>
 
 ### GAN with Linear Layers and Batch Normalization
-* Architecture
-
-![Architecture](Architecture/a2.png)
-
 * Resuts 
 <table align='center'>
 <tr align='center'>
@@ -46,10 +38,6 @@ TensorFlow implementation of Generative Adversarial Network (GAN) applied on [MN
 </table>
 
 ### GAN with 2D CNN and Batch Normalization (DCGAN)
-* Architecture
-
-![Architecture](Architecture/a3.png)
-
 * Resuts 
 These results are generated using 2000 images only and 100 epoch just to reduce the time of training 
 <table align='center'>
@@ -65,10 +53,6 @@ These results are generated using 2000 images only and 100 epoch just to reduce 
 
 
 ### GAN with 2D CNN and Spectral Normalization
-* Architecture
-
-![Architecture](Architecture/a4.png)
-
 * Resuts 
 These results are generated using 2000 images only and 100 epoch just to reduce the time of training 
 
