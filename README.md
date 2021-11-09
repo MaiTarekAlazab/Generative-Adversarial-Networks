@@ -4,6 +4,7 @@ TensorFlow implementation of Generative Adversarial Network (GAN) applied on [MN
 ## Table of Contents
 * [Implementations](#implementations)
 * [Comparisons](#comparisons)
+* [Notes](#notes)
 
 ## Implementations
 1. [GAN with Linear Layers](#gan-with-linear-layers)
@@ -92,4 +93,6 @@ These results are generated using 2000 images only and 100 epoch in the four arc
 <br />
 <br />
 
-
+## Notes 
+* To replicate and run this code you just need to run it on google colab.
+* Increasing the number of data will get you a better result so you can change this in the notebook.  
