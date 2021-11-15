@@ -1,4 +1,4 @@
-# Generative-Adversarial-Networks
+# Generative Adversarial Networks
 TensorFlow implementation of Generative Adversarial Network (GAN) applied on [MNIST](http://yann.lecun.com/exdb/mnist/) dataset 
 
 ## Table of Contents
